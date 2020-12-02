@@ -1,0 +1,8 @@
+name: "self-destruct"
+displayName: "Unit Self-Destruct"
+author: "CyberneticSquid"
+description: "Destroy the unit you're currently controlling.\n[stat]Requires [#00aaff]DeltaNedas/ui-lib[]."
+version: "1.0"
+minGameVersion: "120"
+dependencies: ["ui-lib"]
+hidden: true
